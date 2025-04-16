@@ -1,0 +1,6 @@
+#truffle-config.js
+#truffle.js
+#build/
+#node_modules/
+#coverage/
+#*.log
